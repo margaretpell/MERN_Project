@@ -23,11 +23,10 @@ nodemon index.js
 npm run start
 ```
 ## Display website
-![alt text]()
 1. authentication
-![alt text]()
-![alt text]()
+![alt text](https://github.com/margaretpell/MERN_Project/blob/main/images/Screenshot%202023-04-16%20at%2011.46.21%20PM.png)
+![alt text](https://github.com/margaretpell/MERN_Project/blob/main/images/Screenshot%202023-04-16%20at%2011.46.53%20PM.png)
 2. your profile
-![alt text]()
+![alt text](https://github.com/margaretpell/MERN_Project/blob/main/images/Screenshot%202023-04-16%20at%2011.47.59%20PM.png)
 3. all posts
-![alt text]()
+![alt text](https://github.com/margaretpell/MERN_Project/blob/main/images/Screenshot%202023-04-16%20at%2011.47.45%20PM.png)
